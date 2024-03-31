@@ -1,5 +1,7 @@
 # Projeto Database OpenAI
 
+
+ <img src="https://github.com/tvlemes/project_database_openai/blob/main/docs/img_1.PNG"> 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Indície</summary>
@@ -21,7 +23,7 @@
 
 ## Objetivo
 
-Esté projeto tem como objetivo implementar a biblioteca <b>Langchain</b> para trabalhar com banco de dados locais, em especifico este o <b>SQLite</b>.
+Esté projeto tem como objetivo implementar a biblioteca <b>Langchain</b> para trabalhar com banco de dados locais, em especifico este, o <b>SQLite</b>.
 
 <!-- programas-e-bibliotecas -->
 ### Bibliotecas utilizadas
